@@ -1,10 +1,9 @@
-package com.varun.classroomproject.student;
+package com.sarthak.classroomproject.student;
 
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Repository
 public class StudentRepository {

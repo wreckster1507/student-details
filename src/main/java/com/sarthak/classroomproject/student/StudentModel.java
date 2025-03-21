@@ -1,4 +1,4 @@
-package com.varun.classroomproject.student;
+package com.sarthak.classroomproject.student;
 
 public record StudentModel(
         Integer id,
