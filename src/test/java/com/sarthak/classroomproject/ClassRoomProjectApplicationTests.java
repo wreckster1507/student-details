@@ -1,4 +1,4 @@
-package com.varun.classroomproject;
+package com.sarthak.classroomproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
